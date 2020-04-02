@@ -20,6 +20,7 @@ namespace Classes
 			Console.WriteLine("No of point objects: {0}", Point.ObjectCount());
         }
 
+
         static void Main(string[] args)
         {
             try
